@@ -1,0 +1,16 @@
+{
+  "output": null,
+  "generator": "site",
+  "title": "高效DevOps",
+  "author" : "贾坤 译",
+  "plugins": ["splitter", "github", "anchors"],
+  "pluginsConfig": {
+    "github": {
+        "url": "https://github.com/jarrekk"
+    }
+  },
+  "variables": {
+      "author": "贾坤"
+  },
+  "language": "zh-hans"
+}
