@@ -1,4 +1,4 @@
-{% include "/include/DECLARE.md" %}
+
 
 # Jennifer的故事
 

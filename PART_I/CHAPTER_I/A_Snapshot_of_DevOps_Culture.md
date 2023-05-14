@@ -1,4 +1,4 @@
-{% include "/include/DECLARE.md" %}
+
 
 # DevOps文化
 

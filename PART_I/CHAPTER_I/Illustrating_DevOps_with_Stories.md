@@ -1,4 +1,4 @@
-{% include "/include/DECLARE.md" %}
+
 
 # 用故事阐述DevOps
 

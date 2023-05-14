@@ -1,4 +1,4 @@
-{% include "/include/DECLARE.md" %}
+
 
 # 开源软件和私有服务
 

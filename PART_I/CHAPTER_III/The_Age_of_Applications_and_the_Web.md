@@ -1,4 +1,4 @@
-{% include "/include/DECLARE.md" %}
+
 
 # 应用和互联网时代
 
