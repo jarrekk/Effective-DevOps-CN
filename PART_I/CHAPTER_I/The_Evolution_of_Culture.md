@@ -1,4 +1,4 @@
-{% include "/include/DECLARE.md" %}
+
 
 # 文化的演变
 

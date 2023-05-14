@@ -1,4 +1,4 @@
-{% include "/include/DECLARE.md" %}
+
 
 # DevOps人员作为运维工程师
 

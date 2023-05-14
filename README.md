@@ -10,4 +10,4 @@ GitBook阅读: [点此进入](https://www.gitbook.com/book/jarrekk/effective-dev
 
 目录：[点此进入](https://github.com/jarrekk/Effective-DevOps-CN/blob/master/SUMMARY.md)
 
-{% include "/include/DECLARE.md" %}
+

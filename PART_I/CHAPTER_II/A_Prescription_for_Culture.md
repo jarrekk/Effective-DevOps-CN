@@ -1,4 +1,4 @@
-{% include "/include/DECLARE.md" %}
+
 
 # 一剂文化的处方
 
